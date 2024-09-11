@@ -80,7 +80,7 @@ A notes app built using React native for cross-platform mobile devices.
 ## Contributing
 
 - Feature Requests:  
-  Want a new feature or improve already existing feature in the app? Feel free to create an issue at [issue tracker](https://github.com/aayush301/react-native-notes-app/issues) about the feature you want to see in the app.
+  Want a new feature or improve already existing feature in the app? Feel free to create an issue  about the feature you want to see in the app.
 - Bug reports:  
   Found a bug in the application? Feel free to create a new issue at [issue tracker](https://github.com/aayush301/react-native-notes-app/issues) stating the clear description of the bug.
 
@@ -113,5 +113,5 @@ A notes app built using React native for cross-platform mobile devices.
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: Mr.sajawal20@gmail.com
+
